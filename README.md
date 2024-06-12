@@ -55,14 +55,15 @@
 
 ## Stats de GitHub 📈
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImTommyDev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![ImTommyDev GitHub stats](https://github-readme-stats.vercel.app/api?username=ImTommyDev&theme=algolia)](https://github.com/ImTommyDev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTommyDev&theme=algolia)](https://github.com/ImTommyDev/github-readme-stats)
-[![Commits per Day](https://github-readme-stats.vercel.app/api?username=ImTommyDev&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImTommyDev&theme=default&background=ffffff&border=c1ad82&stroke=c1ad82&ring=c1ad82&fire=c1ad82&currStreakNum=000000&sideNums=000000&currStreakLabel=424242&sideLabels=424242&dates=000000)](https://git.io/streak-stats)
+[![ImTommyDev GitHub stats](https://github-readme-stats.vercel.app/api?username=ImTommyDev&title_color=c1ad82&text_color=000000&bg_color=ffffff&border_color=c1ad82&border_width=2&icon_color=c1ad82)](https://github.com/ImTommyDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTommyDev&title_color=c1ad82&text_color=000000&bg_color=ffffff&border_color=c1ad82&border_width=2&icon_color=c1ad82)](https://github.com/ImTommyDev/github-readme-stats)
+[![Commits per Day](https://github-readme-stats.vercel.app/api?username=ImTommyDev&show_icons=true&title_color=c1ad82&text_color=000000&bg_color=ffffff&border_color=c1ad82&border_width=2&icon_color=c1ad82&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Trofeos de GitHub 🏆 
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ImTommyDev&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ImTommyDev&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Serpiente comilona 🐍🐍
 
