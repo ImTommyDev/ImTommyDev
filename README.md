@@ -6,18 +6,23 @@
 
 ## Sobre mi ‼️
 
-- Graduado en DAM 📖💻
-- Trabajando como desarrollador junior 🤵💻
-- Futuro full-stack 🎯
-- Motivado, organizado y siempre aprendiendo 📚🚀
-- Persona perseverante y dedicada 🧠
-- Apasionado por superar retos y alcanzar mis objetivos 🎯💪
-- También hago deporte y tengo un gatito 🏋️🐱
+✔ Graduado en DAM 📖💻 <br>
+✔ Trabajando como desarrollador junior 🤵💻 <br>
+✔ Futuro full-stack 🎯 <br>
+✔ Motivado, organizado y siempre aprendiendo 📚🚀 <br>
+✔ Persona perseverante y dedicada 🧠 <br>
+✔ Apasionado por superar retos y alcanzar mis objetivos 🎯💪 <br>
+✔ También hago deporte y tengo un gatito 🏋️🐱
 
 ## Conecta conmigo 🤝
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tomás-primo-rico-801498231" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+</p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <b>Skills </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 <h3 align="left">Back-End Development</h3>
 <p align="left">
@@ -47,3 +52,21 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
+
+## Stats de GitHub 📈
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImTommyDev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![ImTommyDev GitHub stats](https://github-readme-stats.vercel.app/api?username=ImTommyDev&theme=algolia)](https://github.com/ImTommyDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTommyDev&theme=algolia)](https://github.com/ImTommyDev/github-readme-stats)
+[![Commits per Day](https://github-readme-stats.vercel.app/api?username=ImTommyDev&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Trofeos de GitHub 🏆 
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ImTommyDev&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Serpiente comilona 🐍🐍
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
