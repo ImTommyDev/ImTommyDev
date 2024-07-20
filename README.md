@@ -66,10 +66,3 @@
 ## Trofeos de GitHub 🏆 
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ImTommyDev&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Serpiente comilona 🐍🐍
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
