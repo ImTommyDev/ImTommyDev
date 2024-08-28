@@ -22,6 +22,14 @@
   </a>
 </p>
 
+## Mis Logros y Habilidades 🏆
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/tommy_devlpr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+</p>
+
 ## <b>Skills </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 <h3 align="left">Back-End Development</h3>
@@ -42,11 +50,11 @@
 <h3 align="left">Bases de Datos</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/SQL%20-%234477a1.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
-    <img src="https://img.shields.io/badge/Sage%20-%23E34F26.svg?style=for-the-badge&logo=sage&logoColor=white" alt="Sage">
 </p>
 
 <h3 align="left">Otros</h3>
 <p align="left">
+    <img src="https://img.shields.io/badge/Sage%20-%23E34F26.svg?style=for-the-badge&logo=sage&logoColor=white" alt="Sage">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
