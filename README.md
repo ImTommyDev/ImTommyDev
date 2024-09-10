@@ -34,6 +34,9 @@
   <a href="https://www.udemy.com/user/tomas-primo-rico/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/static/v1?message=Udemy&logo=udemy&label=&color=EC5252&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="udemy logo" />
   </a>
+  <a href="https://app.codesignal.com/profile/imtommy" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/static/v1?message=CodeSignal&logo=CodeSignal&label=&color=1A73E8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codesignal logo" />
+  </a>
 </p>
 
 ## <b>Skills </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
