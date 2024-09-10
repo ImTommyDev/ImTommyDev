@@ -31,6 +31,9 @@
   <a href="https://leetcode.com/u/ImTommyDev/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
+  <a href="https://stackoverflow.com/users/27276191/imtommyy" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
+  </a>
   <a href="https://www.udemy.com/user/tomas-primo-rico/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/static/v1?message=Udemy&logo=udemy&label=&color=EC5252&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="udemy logo" />
   </a>
