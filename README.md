@@ -8,7 +8,6 @@
 
 ✔ Graduado en DAM 📖💻 <br>
 ✔ Trabajando como desarrollador junior 🤵💻 <br>
-✔ Futuro full-stack 🎯 <br>
 ✔ Motivado, organizado y siempre aprendiendo 📚🚀 <br>
 ✔ Persona perseverante y dedicada 🧠 <br>
 ✔ Apasionado por superar retos y alcanzar mis objetivos 🎯💪 <br>
