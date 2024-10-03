@@ -11,7 +11,7 @@
 ✔ Motivado, organizado y siempre aprendiendo 📚🚀 <br>
 ✔ Persona perseverante y dedicada 🧠 <br>
 ✔ Apasionado por superar retos y alcanzar mis objetivos 🎯💪 <br>
-✔ También hago deporte y tengo un gatito 🏋️🐱
+✔ También hago deporte 🏋️
 
 ## Conecta conmigo 🤝
 
