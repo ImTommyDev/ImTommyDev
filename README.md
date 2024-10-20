@@ -2,7 +2,7 @@
   <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/tomás-primo-rico-801498231">Tommy </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-<img src="https://i.imgur.com/HDyS395.png">
+<img src="https://i.imgur.com/D4tHDm9.png">
 
 ## Sobre mi ‼️
 
