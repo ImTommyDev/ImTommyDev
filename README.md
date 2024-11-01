@@ -97,3 +97,7 @@
 ## Trofeos de GitHub 🏆 
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ImTommyDev&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Noooo mis commiiits 😭
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
