@@ -16,10 +16,22 @@
 ## Conecta conmigo 🤝
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tomás-primo-rico-801498231" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tomás-primo-rico-801498231" target="_blank" style="margin-right: 20px;">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/tomasprimo_/" target="_blank" style="margin-right: 20px;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="50" width="50" />
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:tommy.devlpr@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="50" width="50" />
   </a>
 </p>
+
 
 ## Mis Logros y Habilidades 🏆
 
