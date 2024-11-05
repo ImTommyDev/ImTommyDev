@@ -88,8 +88,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImTommyDev&theme=dark&border=c1ad82&ring=c1ad82&fire=c1ad82&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
-[![ImTommyDev GitHub stats](https://github-readme-stats.vercel.app/api?username=ImTommyDev&show_icons=true&title_color=c1ad82&text_color=ffffff&bg_color=0d1117&border_color=c1ad82&border_width=2&icon_color=c1ad82)](https://github.com/ImTommyDev/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTommyDev&layout=compact&langs_count=6&title_color=c1ad82&text_color=ffffff&bg_color=0d1117&border_color=c1ad82&border_width=2)](https://github.com/ImTommyDev/github-readme-stats)
 
 [![Commits per Day](https://github-readme-stats.vercel.app/api?username=ImTommyDev&layout=compact&langs_count=6&title_color=c1ad82&text_color=ffffff&bg_color=0d1117&border_color=c1ad82&border_width=2&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
