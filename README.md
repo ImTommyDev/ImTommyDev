@@ -4,14 +4,16 @@
 
 <img src="https://i.imgur.com/dYlCf37.png">
 
-## Sobre mi ‼️
+# Sobre mí 👨‍💻
 
-✔ Graduado en DAM 📖💻 <br>
-✔ Trabajando como desarrollador junior 🤵💻 <br>
-✔ Motivado, organizado y siempre aprendiendo 📚🚀 <br>
-✔ Persona perseverante y dedicada 🧠 <br>
-✔ Apasionado por superar retos y alcanzar mis objetivos 🎯💪 <br>
-✔ También me gusta mucho el deporte 🏋️
+✔ Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM) 🎓💻  
+✔ Actualmente trabajando como desarrollador junior 👨‍💻🌱  
+✔ Motivado, organizado y en constante aprendizaje 📚🚀  
+✔ Persona perseverante, con gran dedicación y atención al detalle 🧩🔥  
+✔ Apasionado por resolver retos y cumplir objetivos 💪🏆  
+✔ Con interés en inteligencia artificial y big data 🤖📊  
+✔ Enfocado en el desarrollo full-stack para seguir creciendo en el sector 🖥️⚙️  
+✔ Amante del deporte y la vida saludable 🏋️🌿  
 
 ## Conecta conmigo 🤝
 
