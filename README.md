@@ -92,6 +92,8 @@
 
 [![Commits per Day](https://github-readme-stats.vercel.app/api?username=ImTommyDev&layout=compact&langs_count=6&title_color=c1ad82&text_color=ffffff&bg_color=0d1117&border_color=c1ad82&border_width=2&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+*Nota: El ranking de lenguajes refleja únicamente la cantidad de commits realizados en cada uno, y no representa mi nivel de dominio en ellos.*
+
 ## Trofeos de GitHub 🏆 
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ImTommyDev&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
