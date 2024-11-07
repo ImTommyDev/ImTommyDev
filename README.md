@@ -51,6 +51,9 @@
   <a href="https://app.codesignal.com/profile/imtommy" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/static/v1?message=CodeSignal&logo=CodeSignal&label=&color=1A73E8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codesignal logo" />
   </a>
+  <a href="https://v2.scrimba.com/@ImTommyDev" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/static/v1?message=Scrimba&logo=scrimba&label=&color=1A2C38&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="scrimba logo" />
+  </a>
 </p>
 
 ## <b>Skills </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
