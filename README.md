@@ -32,30 +32,6 @@
   </a>
 </p>
 
-
-## Mis Logros y Habilidades 🏆
-
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/tommy_devlpr" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://leetcode.com/u/ImTommyDev/" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/27276191/imtommyy" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
-  </a>
-  <a href="https://www.udemy.com/user/tomas-primo-rico/" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=Udemy&logo=udemy&label=&color=EC5252&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="udemy logo" />
-  </a>
-  <a href="https://app.codesignal.com/profile/imtommy" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=CodeSignal&logo=CodeSignal&label=&color=1A73E8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codesignal logo" />
-  </a>
-  <a href="https://v2.scrimba.com/@ImTommyDev" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=Scrimba&logo=scrimba&label=&color=1A2C38&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="scrimba logo" />
-  </a>
-</p>
-
 ## <b>Skills </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 <h3 align="left">Back-End Development</h3>
