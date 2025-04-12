@@ -32,7 +32,7 @@
 
 ## <b>Skills </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
-<h3 align="left">Back-End Development</h3>
+<h3 align="left">Back-End</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/.NET%20-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white" alt=".NET">
     <img src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
