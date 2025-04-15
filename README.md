@@ -9,7 +9,6 @@
 ✔ Siempre aprendiendo, tratando de ser un poco mejor cada día 📚🚀  
 ✔ Perseverante, organizado y metódico 🧩
 ✔ Con interés en big data e inteligencia artificial 🤖📊    
-✔ Amante del deporte y la vida saludable 🏋️🌿  
 
 ## Conecta conmigo 🤝
 
