@@ -5,10 +5,8 @@
 # Sobre mí 👨‍💻
 
 ✔ Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM) 🎓💻  
-✔ Trabajando como junior backend developer 👨‍💻🌱  
-✔ Siempre aprendiendo 📚🚀  
-✔ Organizado y metódico 🧩
 ✔ Con interés en big data e inteligencia artificial 🤖📊    
+✔ Trabajando como backend developer 👨‍💻🌱  
 
 ## Conecta conmigo 🤝
 
