@@ -66,12 +66,7 @@
 
 [![ImTommyDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImTommyDev&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&title_color=c1ad82&text_color=ffffff&icon_color=c1ad82&bg_color=0d1117&border_color=c1ad82&border_width=2)](https://github.com/ImTommyDev/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ImTommyDev&theme=dark&border=2C2C2C&ring=c1ad82&fire=c1ad82&currStreakLabel=c1ad82&sideLabels=ffffff&dates=ffffff)](https://github.com/ImTommyDev)
-
-
-*Nota: El ranking de lenguajes refleja únicamente la cantidad de commits realizados en cada uno, y no representa mi nivel de dominio en ellos.*
-
 ## Trofeos de GitHub 🏆 
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ImTommyDev&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ImTommyDev&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy) 
 
