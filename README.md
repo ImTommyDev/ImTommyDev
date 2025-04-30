@@ -24,6 +24,12 @@
   <a href="mailto:tommy.devlpr@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="50" width="50" />
   </a>
+
+  <!-- Roadmap.sh -->
+## Roadmap.sh 🧭
+
+  [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh%20-%23168FFF.svg?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/account/update-profile)
+
 </p>
 
 ## <b>Skills </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
