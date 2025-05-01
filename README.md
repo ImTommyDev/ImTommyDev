@@ -28,7 +28,7 @@
   <!-- Roadmap.sh -->
 ## Roadmap.sh 🧭
 
-  [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh%20-%23168FFF.svg?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/account/update-profile)
+  [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh%20-%23168FFF.svg?style=for-the-badge&logo=roadmap.sh&logoColor=white&color=ffb02e)](https://roadmap.sh/account/update-profile)
 
 </p>
 
