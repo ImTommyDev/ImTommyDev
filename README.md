@@ -65,6 +65,11 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio 2022">
 </p>
 
+<h3 align="left">Herramientas de Testing</h3> 
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> 
+</p>
+
 ## Stats de GitHub 📈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTommyDev&layout=compact&langs_count=6&title_color=c1ad82&text_color=ffffff&bg_color=0d1117&border_color=c1ad82&border_width=2)](https://github.com/ImTommyDev/github-readme-stats)
