@@ -29,38 +29,43 @@
 
 ## <b>Skills </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
-<h3 align="left">Back-End</h3>
+<h3 align="left">🖥️ Back-End</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/.NET%20-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white" alt=".NET">
     <img src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-<h3 align="left">Bases de Datos</h3>
+<h3 align="left">🎨 Frontend</h3>
+<p align="left">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+<h3 align="left">🗄️ Bases de Datos</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/SQL%20-%234477a1.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 </p>
 
-
-<h3 align="left">ERP</h3>
+<h3 align="left">📊 ERP</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/Sage%20-%23E34F26.svg?style=for-the-badge&logo=sage&logoColor=white" alt="Sage">
     <img src="https://img.shields.io/badge/Odoo%20-%2381C784.svg?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo">
 </p>
 
-<h3 align="left">Control de Versiones</h3>
+<h3 align="left">🔧 Control de Versiones</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-<h3 align="left">Entornos de Desarrollo</h3>
+<h3 align="left">🛠️ Entornos de Desarrollo</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio 2022">
 </p>
 
-<h3 align="left">Herramientas de Testing</h3> 
+<h3 align="left">🧪 Herramientas de Testing</h3> 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> 
 </p>
