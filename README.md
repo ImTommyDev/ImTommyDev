@@ -74,8 +74,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTommyDev&layout=compact&langs_count=6&title_color=c1ad82&text_color=ffffff&bg_color=0d1117&border_color=c1ad82&border_width=2)](https://github.com/ImTommyDev/github-readme-stats)
 
-[![ImTommyDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImTommyDev&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&title_color=c1ad82&text_color=ffffff&icon_color=c1ad82&bg_color=0d1117&border_color=c1ad82&border_width=2)](https://github.com/ImTommyDev/github-readme-stats)
-
 ## Trofeos de GitHub 🏆 
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ImTommyDev&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy) 
